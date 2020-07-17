@@ -1,0 +1,17 @@
+/*!
+ *  Font Awesome 4.6.1 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+
+@font-face {
+    font-family: 'FontAwesome';
+    src:  url('fonts/fontawesome.eot?8ecvs2');
+    src:  url('fonts/fontawesome.eot?8ecvs2#iefix') format('embedded-opentype'),
+          url('fonts/fontawesome.ttf?8ecvs2') format('truetype'),
+          url('fonts/fontawesome.woff?8ecvs2') format('woff'),
+          url('fonts/fontawesome.svg?8ecvs2#fontawesome') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.fa-search:before {content: "\f002";}.fa-envelope-o:before {content: "\f003";}.fa-heart:before {content: "\f004";}.fa-user:before {content: "\f007";}.fa-th-large:before {content: "\f009";}.fa-th-list:before {content: "\f00b";}.fa-check:before {content: "\f00c";}.fa-close:before {content: "\f00d";}.fa-remove:before {content: "\f00d";}.fa-times:before {content: "\f00d";}.fa-trash-o:before {content: "\f014";}.fa-home:before {content: "\f015";}.fa-clock-o:before {content: "\f017";}.fa-map-marker:before {content: "\f041";}.fa-chevron-left:before {content: "\f053";}.fa-chevron-right:before {content: "\f054";}.fa-plus:before {content: "\f067";}.fa-minus:before {content: "\f068";}.fa-exclamation-circle:before {content: "\f06a";}.fa-eye:before {content: "\f06e";}.fa-exclamation-triangle:before {content: "\f071";}.fa-warning:before {content: "\f071";}.fa-chevron-up:before {content: "\f077";}.fa-chevron-down:before {content: "\f078";}.fa-retweet:before {content: "\f079";}.fa-shopping-cart:before {content: "\f07a";}.fa-heart-o:before {content: "\f08a";}.fa-phone:before {content: "\f095";}.fa-twitter:before {content: "\f099";}.fa-facebook:before {content: "\f09a";}.fa-facebook-f:before {content: "\f09a";}.fa-group:before {content: "\f0c0";}.fa-users:before {content: "\f0c0";}.fa-bars:before {content: "\f0c9";}.fa-navfa:before {content: "\f0c9";}.fa-reorder:before {content: "\f0c9";}.fa-sort-desc:before {content: "\f0dd";}.fa-sort-down:before {content: "\f0dd";}.fa-sort-asc:before {content: "\f0de";}.fa-sort-up:before {content: "\f0de";}.fa-envelope:before {content: "\f0e0";}.fa-angle-left:before {content: "\f104";}.fa-angle-right:before {content: "\f105";}.fa-angle-up:before {content: "\f106";}.fa-angle-down:before {content: "\f107";}.fa-unlock-alt:before {content: "\f13e";}.fa-eur:before {content: "\f153";}.fa-euro:before {content: "\f153";}.fa-dollar:before {content: "\f155";}.fa-usd:before {content: "\f155";}.fa-rouble:before {content: "\f158";}.fa-rub:before {content: "\f158";}.fa-ruble:before {content: "\f158";}.fa-bitcoin:before {content: "\f15a";}.fa-btc:before {content: "\f15a";}.fa-youtube:before {content: "\f167";}.fa-instagram:before {content: "\f16d";}.fa-skype:before {content: "\f17e";}.fa-vk:before {content: "\f189";}.fa-fax:before {content: "\f1ac";}.fa-trash:before {content: "\f1f8";}.fa-user-plus:before {content: "\f234";}.fa-user-times:before {content: "\f235";}.fa-odnoklassniki:before {content: "\f263";}.fa-shopping-bag:before {content: "\f290";}.fa-percent:before {content: "\f295";}.fa-long-arrow-right:before {content: "\f178";}.fa-history:before {content: "\f1da";}
